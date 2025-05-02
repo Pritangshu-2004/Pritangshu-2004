@@ -50,9 +50,9 @@ I am a diligent seeker of knowledge and an ardent enthusiast of the technologica
   	<ul>
   	    <li><b>OS:</b> Windows 11 and fedora 41 workstation</li>
 	    <li><b>Laptop: </b> HP Pavilion</li>
-  	    <li><b>Browser: </b> Chrome, Microsoft Edge & Safari</li>
-	    <li><b>Terminal: </b> Bash and Windows Powershell</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+  	    <li><b>Browser: </b> Chrome, Microsoft Edge & Brave</li>
+	    <li><b>Terminal: </b> Bash, Warp and Windows Powershell</li>
+	    <li><b>Code Editor:</b> VSCode, Cursor and Trap</li>
  	    <li><b>Other Tools:</b> Postman, Figma, Ventury</li>
 	    <li><b>To Stay Updated:</b> LinkedIn</li>
 	</ul>
